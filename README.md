@@ -35,3 +35,8 @@ php artisan vendor:publish --provider="PHPOpenSourceSaver\JWTAuth\Providers\Lara
 ```console
 php artisan jwt:secret
 ```
+
+```console
+php artisan make:controller AuthController
+```
+
